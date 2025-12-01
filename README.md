@@ -10,7 +10,6 @@ This repository contains a single Jupyter notebook with basic but illustrative s
 
 ## 📁 Notebook
 
-👉 **Open the notebook:**  
 [network_physics_notebook.ipynb](network_physics_notebook.ipynb)
 
 This notebook includes:
